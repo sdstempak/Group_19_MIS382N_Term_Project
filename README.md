@@ -14,6 +14,7 @@ We use a Kaggle dataset derived from the UCF Crime Dataset, which contains 1,900
 The model uses a hybrid architecture for feature extraction of the video frames and for creating the temporal sequence among the frames:
 
 Feature Extraction - ResNet18 for spatial feature extraction.
+
 Temporal Modeling - Causal Transformer for temporal relationships between frames.
 
 

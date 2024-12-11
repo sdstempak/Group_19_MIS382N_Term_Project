@@ -1,4 +1,5 @@
 Project: Anomaly Detection from Surveillance Footage
+
 Group Members: Scott Stempak, Mason Shu, Theresa Sushil, Gauruv Shukla, and Pratyush Rohilla
 
 ### This repository contains the implementation of an anomaly detection model for analyzing surveillance videos using deep learning techniques. This was done in regards to the term project for the Advanced Machine Learning Course that we undertook during our Masters in Business Analytics program at The University of Texas at Austin, McCombs School of Business (2024).
